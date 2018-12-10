@@ -1,0 +1,20 @@
+<Book>
+  <id>32</id>
+  <title>Bieguni</title>
+  <price>30</price>
+  <author>
+    <id>0</id>
+    <name/>
+    <books/>
+  </author>
+  <friend>
+    <id>0</id>
+    <name/>
+  </friend>
+  <location>
+    <id>0</id>
+    <bookstand/>
+    <shelf/>
+    <place/>
+  </location>
+</Book>

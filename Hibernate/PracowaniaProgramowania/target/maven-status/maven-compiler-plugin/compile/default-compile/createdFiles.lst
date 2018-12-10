@@ -1,0 +1,7 @@
+hibernate\Manager.class
+hibernate\model\Author.class
+hibernate\queries\Queries.class
+hibernate\model\Location.class
+hibernate\model\Friend.class
+hibernate\model\Book.class
+hibernate\model\Address.class

@@ -1,0 +1,20 @@
+{
+  "id" : 32,
+  "title" : "Bieguni",
+  "price" : 30,
+  "author" : {
+    "id" : 0,
+    "name" : null,
+    "books" : [ ]
+  },
+  "friend" : {
+    "id" : 0,
+    "name" : null
+  },
+  "location" : {
+    "id" : 0,
+    "bookstand" : null,
+    "shelf" : null,
+    "place" : null
+  }
+}
